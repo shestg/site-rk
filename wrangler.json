@@ -23,7 +23,7 @@
     {
       "binding": "DB",
       "database_name": "rabotnicheska-kultura",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "251fa1c9-8ed4-4126-995e-d4dee64adcd0",
       "migrations_dir": "migrations"
     }
   ]
